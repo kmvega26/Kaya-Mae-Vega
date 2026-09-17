@@ -59,26 +59,17 @@ I build full-stack applications, work with data, and enjoy translating ideas int
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&title_color=9A5B6E&icon_color=B76E79&text_color=6D4C57&bg_color=FDF2F4)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&title_color=9A5B6E&text_color=6D4C57&bg_color=FDF2F4)
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B76E79?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayamaevega)
-[![Email](https://img.shields.io/badge/Email-B76E79?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayavega17@gmail.com)
+I'm always happy to connect — feel free to reach out!
 
 </div>
+
+- **LinkedIn:** [linkedin.com/in/kayamaevega](https://www.linkedin.com/in/kayamaevega)
+- **Email:** [kmvega@crimson.ua.edu](mailto:kmvega@crimson.ua.edu)
+- **Phone:** [(480) 330-0127](tel:+14803300127)
 
 <div align="center">
 
